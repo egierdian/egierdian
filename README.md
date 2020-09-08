@@ -5,7 +5,7 @@
 <br><br>
 🔭 I’m currently working:<br/>
 <ul>
-  <li>CV. SINAR BAGJA - Administration / Data Entry Tax</li>
+  <li>-</li>
 </ul>
 
 🌱 I’m currently learning
