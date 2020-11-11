@@ -10,7 +10,6 @@
 
 🌱 I’m currently learning
 <ul>
-  <li>Progressive web apps</li>
   <li>Javascript</li>
 </ul>
 
