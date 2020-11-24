@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/egierdian/egierdian)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/egierdian)](https://badges.pufler.dev)
 <br><br>
 🔭 I’m currently working:<br/>
