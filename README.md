@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Repos Badge](https://badges.pufler.dev/repos/egierdian)](https://badges.pufler.dev)
-<br><br>
+<br>
 🔭 I’m currently working:<br/>
 <ul>
   <li>-</li>
